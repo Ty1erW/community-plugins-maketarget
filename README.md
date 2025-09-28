@@ -18,7 +18,7 @@ The data is written as vertex-number, followed by x, y, z values. These values a
 
 ## Usage
 
-_More detailed information will be on the MakeHuman page soon._
+More detailed information is presented here: [maketarget version 2](https://static.makehumancommunity.org/assets/creatingassets/maketarget/targetsv2.html)
 
 When installed, you will find a "MakeTarget2" panel on the N-shelf in blender. 
 
